@@ -1,5 +1,5 @@
 {
-  "name": "box-ios-sdk-v2",
+  "name": "box-ios-sdk",
   "version": "1.2.2",
   "summary": "iOS + OS X SDK for the Box V2 API.",
   "homepage": "https://github.com/box/box-ios-sdk-v2",
